@@ -1,0 +1,5 @@
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+	  Incorporate the Misc-modules and Scull components into the root filesystem of the image, 
+	  facilitating comprehension of buildroot's external tree and package building processes.
