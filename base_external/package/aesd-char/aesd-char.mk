@@ -5,7 +5,7 @@
 ###############################################################
 
 
-AESD_CHAR_VERSION = c2f9c44a3c781085fdf182b31691e41fcf7b9e99
+AESD_CHAR_VERSION = 5e43f0c07e33445dafedd05d5864ab071673da50
 
 AESD_CHAR_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-sane5805.git
 
